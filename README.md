@@ -5,6 +5,7 @@ This repository contains an implementation of a **Quantum Convolutional Neural N
 ## Overview
 
 - **Author**: Raja Appapurapu, PhD Student, Dept. Of Computer Science, Georgia State University
+- **Author**: Asmita Naitam, PhD Student, Dept. Of Computer Science, Georgia State University
 - **Project Name**: QCNN - Quantum Convolutional Neural Network
 - **Objective**: Implement and simulate QCNNs for machine learning tasks like image classification, specifically on the MNIST dataset.
 
