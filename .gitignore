@@ -1,0 +1,71 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all Jupyter Notebooks by default
+#*.ipynb
+
+# Exceptions: Add specific notebooks you want to track
+!important_notebook_1.ipynb
+!important_notebook_2.ipynb
+
+# Ignore environment and package files
+.env
+*.env
+*.venv
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+env/
+venv/
+bin/
+lib/
+
+
+# Ignore dependency management files (like pip, conda, etc.)
+*.lock
+pip-log.txt
+conda-log.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.o
+*.so
+*.out
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore Jupyter Notebook output if large files are produced
+*.h5
+*.csv
+*.tsv
+*.data
+*.pickle
+
+# Ignore virtual environments and settings
+env/
+.venv/
+venv/
+.venv/
+venv.bak/
+
+# Ignore any secret configuration files
+config.ini
+settings.py
