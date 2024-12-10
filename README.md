@@ -14,6 +14,9 @@ This repository contains an implementation of a **Quantum Convolutional Neural N
 - **QCNN Architecture**: Combines quantum-inspired noise with CNN layers to enhance performance.
 - **Classical CNN for Comparison**: Simulates the classical CNN alongside QCNN to evaluate the effectiveness of the quantum elements.
 - **MNIST Dataset**: Classifies images of handwritten digits using both QCNN and classical CNN.
+- Music datasets like GTZAN dataset consisting of audio files used to classify the genres like Indian classical and Western pop, etc.
+- We have applied this GTZAN dataset for CNN as well as QCNN algorithms.
+   
 
 ## Prerequisites
 
@@ -25,6 +28,9 @@ Before running the code, ensure you have the following installed:
 - **Numpy**
 - **Matplotlib**
 - **Pandas**
+- Pennylane
+- Pytorch
+- Tensorflow
 
 ### Installing Dependencies
 
